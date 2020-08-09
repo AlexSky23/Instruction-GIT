@@ -1,2 +1,4 @@
 .vscode
-logo.*
+*.png
+*.loc*
+.gitignore
