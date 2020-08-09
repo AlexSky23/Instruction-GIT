@@ -3,7 +3,7 @@
 
 License: [MIT](./license.md)
 
-<!-- ![logo](./logo.png) -->
+![logo](./logo.png)
 
 <img src="logo.png" alt="Logo" />
 
