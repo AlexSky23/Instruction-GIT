@@ -1,4 +1,3 @@
 .vscode
-*.png
 *.loc*
 .gitignore
