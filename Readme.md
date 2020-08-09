@@ -5,7 +5,7 @@ License: [MIT](./license.md)
 
 ![logo](./logo.png)
 
-<img src="logo.png" alt="Logo" />
+<!--<img src="logo.png" alt="Logo" /> -->
 
 ---
 
